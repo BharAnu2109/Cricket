@@ -1,9 +1,0 @@
-com/cricket/player/model/BowlingStyle.class
-com/cricket/player/controller/PlayerController.class
-com/cricket/player/repository/PlayerRepository.class
-com/cricket/player/model/Player.class
-com/cricket/player/service/PlayerService.class
-com/cricket/player/model/PlayingRole.class
-com/cricket/player/PlayerServiceApplication.class
-com/cricket/player/dto/PlayerDTO.class
-com/cricket/player/model/BattingStyle.class

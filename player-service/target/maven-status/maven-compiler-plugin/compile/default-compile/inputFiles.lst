@@ -1,9 +1,0 @@
-/home/runner/work/Cricket/Cricket/player-service/src/main/java/com/cricket/player/PlayerServiceApplication.java
-/home/runner/work/Cricket/Cricket/player-service/src/main/java/com/cricket/player/controller/PlayerController.java
-/home/runner/work/Cricket/Cricket/player-service/src/main/java/com/cricket/player/dto/PlayerDTO.java
-/home/runner/work/Cricket/Cricket/player-service/src/main/java/com/cricket/player/model/BattingStyle.java
-/home/runner/work/Cricket/Cricket/player-service/src/main/java/com/cricket/player/model/BowlingStyle.java
-/home/runner/work/Cricket/Cricket/player-service/src/main/java/com/cricket/player/model/Player.java
-/home/runner/work/Cricket/Cricket/player-service/src/main/java/com/cricket/player/model/PlayingRole.java
-/home/runner/work/Cricket/Cricket/player-service/src/main/java/com/cricket/player/repository/PlayerRepository.java
-/home/runner/work/Cricket/Cricket/player-service/src/main/java/com/cricket/player/service/PlayerService.java

@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: postgres-config
+  namespace: cricket-system
+data:
+  POSTGRES_DB: cricketdb
+  POSTGRES_USER: cricket_user
